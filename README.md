@@ -1,5 +1,5 @@
 ## [**Neural Prediction Errors as A Unified Cue for Abstract Visual Reasoning (T-PAMI 2025)**](https://ieeexplore.ieee.org/document/11207515)<br>
-[**Lingxiao Yang**](https://zjjconan.github.io/), [Xiaohua Xie](http://cse.sysu.edu.cn/content/2478), [Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/), [Fang Fnag](https://www.psy.pku.edu.cn/english/people/faculty/professor/fangfang/index.htm), [Ru-Yuan Zhang](https://ruyuanzhang.github.io/)
+[**Lingxiao Yang**](https://zjjconan.github.io/), [Xiaohua Xie](http://cse.sysu.edu.cn/content/2478), [Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi/), [Fang Fang](https://www.psy.pku.edu.cn/english/people/faculty/professor/fangfang/index.htm), [Ru-Yuan Zhang](https://ruyuanzhang.github.io/)
 
 This new paper extends our ICML 2023 publication, "Neural Prediction Errors Enable Analogical Visual Reasoning in Human Intelligence Tests", offering a broader framework for supervised and self-supervised learning.
 
