@@ -169,17 +169,17 @@ The new state-of-the-art results reported in our T-PAMI paper are achieved with 
 --------
 If you find this code useful in your research, please consider citing:
     
-@ARTICLE{11207515,
-  author={Yang, Lingxiao and Xie, Xiaohua and Zheng, Wei-Shi and Fang, Fang and Zhang, Ru-Yuan},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
-  title={Neural Prediction Errors as a Unified Cue for Abstract Visual Reasoning}, 
-  year={2026},
-  volume={48},
-  number={2},
-  pages={1795-1810},
-  keywords={Cognition;Visualization;Predictive models;Biological system modeling;Computational modeling;Training;Neuroscience;Supervised learning;Observers;Brain modeling;Neural prediction errors;analogical visual reasoning;intelligence tests;RPM-like;bongard problem},
-  doi={10.1109/TPAMI.2025.3623461}
-}
+    @ARTICLE{SSPredRNet-TPAMI26,
+      author={Yang, Lingxiao and Xie, Xiaohua and Zheng, Wei-Shi and Fang, Fang and Zhang, Ru-Yuan},
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+      title={Neural Prediction Errors as a Unified Cue for Abstract Visual Reasoning}, 
+      year={2026},
+      volume={48},
+      number={2},
+      pages={1795-1810},
+      keywords={Cognition;Visualization;Predictive models;Biological system modeling;Computational modeling;Training;Neuroscience;Supervised learning;Observers;Brain modeling;Neural prediction errors;analogical visual     reasoning;intelligence tests;RPM-like;bongard problem},
+      doi={10.1109/TPAMI.2025.3623461}
+    }
 
 
     @InProceedings{PredRNet-ICML23,
